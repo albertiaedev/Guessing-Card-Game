@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.header-title-container {
+  text-align: center;
+  font-family: 'Arial Black', sans-serif;
+  font-weight: bolder;
+  background: #0065df;
+}
