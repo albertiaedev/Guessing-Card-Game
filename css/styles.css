@@ -16,7 +16,26 @@
 .card-container {
   position: relative;
   background: #c4c4c4;
-  border: 5px solid #000;
+  border: 5px solid #c4c4c4;
+}
+
+.header-round-info-container,
+.header-score-container,
+.header-round-container,
+.header-status-info-container,
+.header-button-container {
+  position: relative;
+  background: #c4c4c4;
+  padding: 10px;
+  text-align: center;
+}
+
+.play-game {
+  border: 2px solid #000;
+  border-radius: 45px;
+  padding: 10px;
+  color: #000;
+  background: #c4c4c4;
 }
 
 .card {
