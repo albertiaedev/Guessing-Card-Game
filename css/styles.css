@@ -10,3 +10,14 @@
   font-weight: bolder;
   background: #0065df;
 }
+
+.card-container {
+  position: relative;
+  background: #c4c4c4;
+  border: 5px solid #000;
+}
+
+.card {
+  margin: 50px;
+  background: #c4c4c4;
+}
